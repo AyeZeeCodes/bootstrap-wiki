@@ -28,3 +28,6 @@ img {
 .dark-purple {
   background: #afa3bf;
 }
+.well {
+  display: inline-block;
+}
