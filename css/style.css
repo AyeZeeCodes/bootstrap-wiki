@@ -1,3 +1,24 @@
 .col {
   border: 1px solid red;
 }
+
+img {
+  margin:7px;
+}
+.panel-success > .panel-heading {
+  color: black;
+}
+
+.panel-info > .panel-heading  {
+  color: black;
+}
+.info-content {
+  background: #f5faff;
+}
+
+.success-content{
+  background: #f5fffa;
+}
+.wiki-gray {
+  background: #f6f6f6;
+}
